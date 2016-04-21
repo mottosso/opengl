@@ -5,10 +5,10 @@
    * [Vertex Array Object](vertex_array_object.md)
    * Vertex Buffer Object
 * API
-   * glCreateShader()
-   * glShaderSource()
-   * glCompileShader()
-   * glAttachShader()
-   * glLinkProgram()
-   * glDeleteShader()
+   * [glCreateShader()](api/glCreateShader.md)
+   * [glShaderSource()](api/glShaderSource.md)
+   * [glCompileShader()](api/glCompileShader.md)
+   * [glAttachShader()](api/glAttachShader.md)
+   * [glLinkProgram()](api/glLinkProgram.md)
+   * [glDeleteShader()](api/glDeleteShader.md)
 

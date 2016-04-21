@@ -1,0 +1,6 @@
+{
+    "styles": {
+        "website": "website.sass"
+    },
+    "plugins": ["styles-sass"]
+}

@@ -7,4 +7,5 @@
 * API
    * glCreateShader()
    * glShaderSource()
+   * glCompileShader()
 

@@ -10,4 +10,5 @@
    * glCompileShader()
    * glAttachShader()
    * glLinkProgram()
+   * glDeleteShader()
 

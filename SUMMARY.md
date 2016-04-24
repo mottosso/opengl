@@ -12,4 +12,5 @@
    * [glAttachShader()](api/glAttachShader.md)
    * [glLinkProgram()](api/glLinkProgram.md)
    * [glDeleteShader()](api/glDeleteShader.md)
+   * glViewport
 

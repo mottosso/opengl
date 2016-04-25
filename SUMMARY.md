@@ -6,12 +6,12 @@
    * Vertex Buffer Object
    * [Program](Program.md)
 * API
-   * [glCreateShader()](api/glCreateShader.md)
-   * [glShaderSource()](api/glShaderSource.md)
-   * [glCompileShader()](api/glCompileShader.md)
-   * [glAttachShader()](api/glAttachShader.md)
-   * [glLinkProgram()](api/glLinkProgram.md)
-   * [glDeleteShader()](api/glDeleteShader.md)
-   * [glViewport()](api/glViewport.md)
+   * glCreateShader()
+   * glShaderSource()
+   * glCompileShader()
+   * glAttachShader()
+   * glLinkProgram()
+   * glDeleteShader()
+   * glViewport()
    * [glGenBuffers()](api/glGenBuffers.md)
 

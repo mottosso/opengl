@@ -2,7 +2,7 @@
 
 OpenGL is one giant state machine. Rendering with OpenGL involves the following steps, in order.
 
-1. Create an OS-dependent window
+1. Create OS-dependent window
 2. Bind OpenGL "[context]" to window
 3. Store vertex data in one or more "[buffer objects][buffer]"
 4. Write, compile and link two or more "[shaders][Shader]"

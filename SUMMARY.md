@@ -2,10 +2,10 @@
 
 * [Introduction](README.md)
 * [CONTENT](chapter1.md)
+   * Getting Started
    * [Vertex Array Object](vertex_array_object.md)
    * Vertex Buffer Object
    * [Program](Program.md)
-   * Getting Started
 * API
    * glCreateShader()
    * glShaderSource()

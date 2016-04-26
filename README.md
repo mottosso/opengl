@@ -12,7 +12,8 @@ The information here represents my full knowledge of OpenGL at any given time. A
 
 **Resources**
 
-- https://open.gl
-- http://www.opengl-tutorial.org
-- http://learnopengl.com
-- http://ogldev.atspace.co.uk/index.html
+- [open.gl](https://open.gl)
+- [opengl-tutorial.org](http://www.opengl-tutorial.org)
+- [learnopengl.com](http://learnopengl.com)
+- [ogldev.atspace.co.uk](http://ogldev.atspace.co.uk/index.html)
+- [arcsynthesis.org]( https://web.archive.org/web/20150311211506/http://www.arcsynthesis.org/gltut/index.html)
